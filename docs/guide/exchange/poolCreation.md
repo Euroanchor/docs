@@ -17,8 +17,8 @@ To begin the process of creation, click on the "Create liquidity pool +" button.
 When creating a pool you have 3 types of pools to choose from:
 
 -   Weighted pool, which allows you to have up to 8 tokens and each one can have a custom weight
--   Oracle pool, which allows you to choose only 2 tokens, but still allows you to set custom weihts
--   Stable pool, which allows you to have up to 8 tokens, but not costum weghts for each token
+-   Oracle pool, which allows you to choose only 2 tokens, but still allows you to set custom weights
+-   Stable pool, which allows you to have up to 8 tokens, but not custom weights for each token
 
 <img src="/img/guide/swap/poolTypes.png" alt="Pool types" width="500" />
 
@@ -79,7 +79,7 @@ To proceed press the "Confirm pool fees" button.
 
 ## Initial liquidity
 
-When you set the fees, you'll have to set the initial liquidity, that your pool will recieve after created.
+When you set the fees, you'll have to set the initial liquidity, that your pool will receive after created.
 
 Setting the liquidity isn't any different from seting an amount when swapping, depositing, ... On the right of the token there is an input field in which you type the amount you want to deposit. There is also a MAX button, which will set the amount to your balance of that token. Your token balance is displayed underneath the input field.
 
@@ -89,7 +89,7 @@ After setting the amount of initial liquidity press the "add initial liquidity" 
 
 ## Creating pool
 
-When everything is chosen and set up you'll se a summary window, which holds all the data about the pool you are about to create.
+When everything is chosen and set up you'll see a summary window, which holds all the data about the pool you are about to create.
 
 <img src="/img/guide/swap/poolSummary.png" alt="Pool summary" width="600" />
 
